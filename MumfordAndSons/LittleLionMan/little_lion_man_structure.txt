@@ -1,0 +1,13 @@
+Key of F
+
+I = F
+ii = Gm
+iii = Am
+IV = Bb
+V = C
+vi = Dm
+vio = Edim
+
+Verse 1 -> vi-V-I and V IV vi V I
+
+Chorus -> vi IV I vi IV I vi Iv I V
