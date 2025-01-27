@@ -6,8 +6,37 @@ v = Cm
 VI = Db
 VII = Eb
 
-Verse 1
-Fm Eb Fm Cm 
+Song structure:
 
-Things that you
-Db Eb Cm Fm Db
+Verse - first progression
+Verse - second progression
+
+Chorus
+
+Verse - first progression
+Verse - second progression
+
+Chorus
+
+Solo guitar
+
+Bridge - first progression
+Bridge - second progression
+
+Chorus
+
+Scream
+
+Outro
+
+Verse 
+Fm Eb Fm Cm 
+Verse Second progression
+Db Eb Cm Fm Db Eb Fm
+
+Chorus Db Ab Eb (and maybe Ab Db Eb) chorus might have two different progressions
+
+Verse 
+Fm Eb Fm Cm 
+Verse Second progression
+Db Eb Cm Fm Db Eb Fm
