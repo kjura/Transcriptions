@@ -1,0 +1,14 @@
+Original Key: Em
+
+
+i = Em
+iio = F#dim
+III = G
+iv = Am
+v = Bm
+VI = C
+VII = D
+
+Verse: VI(hanging before start) i iv i v VI
+
+Chorus: III i v VI
