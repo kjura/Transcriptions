@@ -1,0 +1,24 @@
+Probably Cm
+
+i = Cm
+iio = Ddim
+III = Eb
+iv = Fm
+v = Gm
+VI = Ab
+VII = Bb
+
+
+
+Verse first progression -> Cm Bb Fm Eb Ddim C
+
+Pre-Chorus -> Ab Bb Cm
+
+Chorus first progression -> Cm Gm Ab Eb Fm Cm Ab Bb
+Chorus second progression -> Cm Gm Ab Eb Fm Cm Ab Bb Cm (end with Cm)
+
+
+After solo chords -> Cm (hold) then Cm Bb Ab, then Palm mute (Cm) Cm C#(out of tune on purpose)
+
+
+Piano part -> Cm Cm Bb Ab Gm
