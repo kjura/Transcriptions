@@ -23,9 +23,12 @@ Chorus
 
 
 Verse - i VII i VII
-Verse 2nd variation - VI i VI iv->V
+Verse 2nd variation - VI i VI v->V
 Verse - i VII i VII
-Verse 2nd variation - VI i VI iv->V 
+Verse 2nd variation - VI i VI v->V 
 Chorus - i VI III VII i VI VII III VII i v VI VII III
+Verse 3rd variation part1 - (not sure yet) v i VII III ?_(VI or iv)_? i VI v->V
+Verse 3rd variation part2 - i VI VII III ?_(VI or iv)_? i
+Outro Verse 3rd - VI v->V i VII VI ?_(VI or iv)_? v
 
 Chorus - Bm G D A 
