@@ -1,0 +1,14 @@
+Original key: C major
+
+I - C
+ii - Dm
+iii - Em
+IV - F
+V - G
+vi - Am
+viio - Bdim
+
+
+Verse - I iii I iii IV vi I V
+
+Chorus - I vi IV vi V
