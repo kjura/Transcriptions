@@ -1,0 +1,22 @@
+Original key: F#m
+
+i = F#m 
+iio = G#dim
+III = A
+iv = Bm
+v = C#m
+VI = D --> change to Dmaj7
+VII = E
+
+
+Verses: i v VIM7 III
+Choruses: Variation of VII-i VII-i, when going to instrumental leave on VIM7
+
+Song structure:
+
+Verse 1 
+Chorus Variant 1
+Verse 2
+Chorus Variant 2
+Bridge/Guitar/Woah
+Chorus 3

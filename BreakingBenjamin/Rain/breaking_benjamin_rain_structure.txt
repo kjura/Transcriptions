@@ -1,0 +1,23 @@
+Original key: C major
+
+
+I - C
+ii - Dm
+iii - Em
+IV - F
+V - G
+vi - Am
+viio - Bdim
+
+
+Verse 1st variation - I IV I IV
+Verse 2nd variation - I vi V IV 
+Chorus - I ii IV I ii IV
+Verse 1st variation - I IV I IV
+Verse 2nd variation - I vi V IV
+Chorus - I ii IV I ii IV
+Bridge 1st variation - vi IV iii IV
+Bridge 2nd variation - vi IV V IV
+Bridge 1st variation - vi IV iii IV
+Bridge 2nd variation - vi IV V (stay on V)
+Chorus - I ii IV I ii IV

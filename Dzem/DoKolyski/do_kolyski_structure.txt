@@ -1,0 +1,20 @@
+A B C# D E F# G
+
+
+
+i - Bm
+iio - C#dim
+III - D
+iv - Em
+v - F#m
+VI - G
+VII - A
+
+Verse = i VII VI v iv VII i
+
+Chorus - Em A B Em A G
+
+
+Bm - D - F#
+A - C# - E
+G - B - D

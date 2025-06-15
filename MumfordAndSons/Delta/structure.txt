@@ -1,0 +1,21 @@
+Original Key: D major
+
+
+I = D
+ii = Em
+iii = F#m
+IV = G
+V = A
+vi = Bm
+viio = C#dim
+
+
+Verse 1 - D A G Bm G Bm A
+
+Verse 2 - D A D G D A D G Bm A Bm G
+Verse 2 (walk with me) - Bm A G D G 2x
+Verse 3  - Bm A D 
+
+Verse 4 - 
+
+Chorus - G Bm D G || IV vi I IV

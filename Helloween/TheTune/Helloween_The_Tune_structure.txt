@@ -1,0 +1,61 @@
+
+
+F#m ???????
+i = F#m 
+iio = G#dim
+III = A
+iv = Bm
+v = C#m
+VI = D
+VII = E
+
+F# ??????
+i - F#
+ii - G#m
+iii - A#m
+IV - B
+V - C#
+vi - D#m
+viio - E#dim
+
+F#m C#m D E 
+
+F#5 = F# C# 
+C#5 = C# G#
+D5 =  D A
+E5 = E B
+
+
+Guitar intro - F#5 C#5 D5 E5 F5 F#5 C#5 D5 E5 F5 x2
+Verse 1 variation 1 - F#5 E5 C#5 F#5 C#5 B5
+Verse 1 variation 2 - Bm E A F#m D A C#m F#m
+Verse 2 variation 1 - F#5 E5 C#5 F#5 C#5 B5
+Verse 2 variation 2 - Bm E A F#m D A C#m F#m
+Chorus draft - (change to major?????) F#5 C#5 B5 | C#5 B5 A#5
+Verse 3 variation 1 - F#5 E5 C#5 F#5 C#5 B5
+Verse 3 variation 2 - Bm E A F#m D A C#m F#m
+Verse 4 variation 1 - F#5 E5 C#5 F#5 C#5 B5
+Verse 4 variation 2 - Bm E A F#m D A C#m F#m
+Chorus draft - (change to major?????) F#5 C#5 B5 | C#5 B5 A#5
+Happy-Part
+Verse 5 variation 1 - F#5 E5 C#5 F#5 C#5 B5
+Verse 5 variation 2 - Bm E A F#m D A C#m F#m
+Verse 6 variation 1 - F#5 E5 C#5 F#5 C#5 B5
+Verse 6 variation 2 - Bm E A F#m D A C#m F#m
+Chorus draft - (change to major?????) F#5 C#5 B5 | C#5 B5 A#5
+Happy-Part
+Loooooooong Solo
+Happy-Part
+Happy-Part 
+
+
+Guitar intro - F#5 C#5 D5 E5 F5 F#5 C#5 D5 E5 F5 x2
+
+Verse variation 1 - F#5 E5 C#5 F#5 C#5 B5
+Verse variation 2 - Bm E A F#m D A C#m F#m
+
+Chorus draft - (change to major, same key) F# C# B | C# B5 A#m
+
+Happy-Part - (change to major, same key) F# B C# F# 
+
+Loooooooong Solo chords

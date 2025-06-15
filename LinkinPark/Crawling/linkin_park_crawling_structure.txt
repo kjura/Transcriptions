@@ -1,0 +1,13 @@
+Original Key (live piano version): Bm
+
+i - Bbm
+iio - Cdim
+III - Db
+iv - Ebm
+v - Fm
+VI - Gb
+VII - Ab
+
+Verse/Chorus - i VI III VII 
+
+Before chorus - VI VII i III

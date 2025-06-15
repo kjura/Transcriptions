@@ -1,0 +1,14 @@
+Original key: F minor
+
+
+i = Fm
+iio = Gdim
+III = Ab
+iv = Bbm
+v = Cm
+VI = Db
+VII = Eb
+
+
+Verses - i III VII iv-IV(promotion)
+Chorus - i III VII iv-IV(promotion)

@@ -1,0 +1,24 @@
+Original Key: Cm
+
+i = Cm
+iio = Ddim
+III = Eb
+iv = Fm
+v = Gm
+VI = Ab
+VII = Bb
+
+Verse - i VII iv III iio i
+Pre-Chorus - VI VII i
+Chorus first progression - i v VI III iv i VI VII
+Chorus second progression - i v VI III iv i VI VII I (quicker on Vi VII I)
+Verse - i VII iv III iio i (palm mutting guitar)
+Pre-Chorus - VI VII i
+Chorus first progression - i v VI III iv i VI VII
+Chorus second progression - i v VI III iv i VI VII I (quicker on Vi VII I)
+After solo chords - i i VII VI interchanging with (outside of key, a sharp higher) i-i-i#-i
+Piano part - i v VI III iv i VI VII
+Chorus first progression - i v VI III iv i VI VII
+Chorus second progression - i v VI III iv i VI VII I (quicker on Vi VII I)
+Chorus first progression - i v VI III iv i VI VII
+Chorus second progression - i v VI III iv i VI VII I (quicker on Vi VII I)

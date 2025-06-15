@@ -1,0 +1,21 @@
+Cm Dim Eb Fm Gm Ab Bb
+
+i VII v VI Verses
+i VI VII v Chorus
+
+
+Cm Bb Gm Ab
+Cm Ab Bb Gm
+
+
+
+i = Fm
+iio = Gdim
+III = Ab
+iv = Bbm
+v = Cm
+VI = Db
+VII = Eb
+
+Fm Eb Cm Db - verses
+Fm Db Eb Cm - chorus
