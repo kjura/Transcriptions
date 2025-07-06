@@ -1,0 +1,14 @@
+Original Key: Dm
+
+i = Dm
+iio = Edim
+III = F
+iv = Gm
+v = Am
+VI = Bb
+VII = C
+
+
+Intro/Verse - i v iv VII i
+
+Pre-Chorus - i v i (stay)
