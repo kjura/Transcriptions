@@ -9,6 +9,6 @@ vi - Bbm
 viio - Cdim
 
 
-Intro piano keys -> F-Ab C-Eb Db-F Bb-Db last time one time hit Ab-Db
-Chorus - Db Ab Bbm Gb
-Bridge - Ebm Bm Ab Bm (brief change from Ab Bm and repeat) Ebm Bm Ab (stop on Ab on root note)
+Intro piano keys -> iii-V viio-ii I-iii vi-I last time one time hit V-I
+Verse/Chorus - I V vi IV
+Bridge - ii vi V vi (brief change from V vi and repeat) ii vi V (stop on V on root note)
