@@ -1,17 +1,14 @@
 Original key: Db
 
+I - Db
+ii - Ebm
+iii - Fm
+IV - Gb
+V - Ab
+vi - Bbm 
+viio - Cdim
+
 
 Intro piano keys -> F-Ab C-Eb Db-F Bb-Db last time one time hit Ab-Db
 Chorus - Db Ab Bbm Gb
-
-
-
-Cdim
-
-Bbm
-Ebm
-Fm
-
-Db
-Gb
-Ab
+Bridge - Ebm Bm Ab Bm (brief change from Ab Bm and repeat) Ebm Bm Ab (stop on Ab on root note)
