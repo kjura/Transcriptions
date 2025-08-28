@@ -8,4 +8,6 @@ V = A
 vi = Bm
 viio = C#dim
 
-Verse - I iii vi IV
+
+Some slight variation may occur but this is the core:
+Verse/Pre-chorus/Chorus - I V vi IV
