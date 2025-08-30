@@ -1,0 +1,20 @@
+Original key: Eb major
+
+I = Eb
+ii = Fm
+iii = Gm
+IV = Ab
+V = Bb
+vi = Cm
+viio = Dbdim
+
+
+Verse - Cm Eb Ab (sometimes Bb in the end)
+Pre-Chorus - Cm Eb Ab
+Chorus - Eb Bb Cm Ab
+Outro/Vocal Solo/Crowd - Eb Ab Bb
+
+Verse - vi I IV (sometimes V in the end)
+Pre-Chorus - vi I IV
+Chorus - I V vi IV
+Outro/Vocal Solo/Crowd - I IV V

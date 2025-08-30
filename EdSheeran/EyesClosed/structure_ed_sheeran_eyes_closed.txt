@@ -1,0 +1,13 @@
+Original key: D major
+
+I = D
+ii = Em
+iii = F#m
+IV = G
+V = A
+vi = Bm
+viio = C#dim
+
+
+Some slight variation may occur but this is the core:
+Verse/Pre-chorus/Chorus - I V vi IV

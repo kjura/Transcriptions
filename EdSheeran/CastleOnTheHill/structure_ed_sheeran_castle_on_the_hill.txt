@@ -1,0 +1,16 @@
+Original key: D major
+
+
+I = D
+ii = Em
+iii = F#m
+IV = G
+V = A
+vi = Bm
+viio = C#dim
+
+
+Verse I IV vi V
+Pre-Chorus IV V I IV IV V I IV IV V
+Chorus I IV vi V
+Bridge vi IV I V

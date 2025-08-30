@@ -1,0 +1,14 @@
+Original key: Db
+
+I - Db
+ii - Ebm
+iii - Fm
+IV - Gb
+V - Ab
+vi - Bbm 
+viio - Cdim
+
+
+Intro piano keys -> iii-V viio-ii I-iii vi-I last time one time hit V-I
+Verse/Chorus - I V vi IV
+Bridge - ii vi V vi (brief change from V vi and repeat) ii vi V (stop on V on root note)
