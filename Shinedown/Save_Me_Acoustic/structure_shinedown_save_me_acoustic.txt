@@ -1,6 +1,4 @@
-Original key (most probable): Bm
-Minor to major promotion v -> V
-Adding ib (1st chord flat) for a quick shift: i -> ib  
+Original key (roughly): Bm
 
 i = Bm
 iio = C#dim
@@ -10,6 +8,7 @@ v = F#m
 VI = G
 VII = A
 
-Verse Bm D A G F#
-Verse variation - B D C# B A# (weird) 
-Chorus - Bm F# A G F#
+
+Verse - i III VII VI v->V
+Verse variation - i III iio i VII#
+Chorus - i v->V VII VI v->V
