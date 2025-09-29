@@ -1,0 +1,14 @@
+Original key: Db major
+
+I = Db
+ii = Ebm
+iii = Fm
+IV = Gb
+V = Ab
+vi = Bbm
+vio = Cdim
+
+
+Intro/Verse - Db Ab Bm Ab
+Pre-Chorus - Gb (hold then jump to) Ab
+Chorus - Db Bm Gb Db Bm Gb
