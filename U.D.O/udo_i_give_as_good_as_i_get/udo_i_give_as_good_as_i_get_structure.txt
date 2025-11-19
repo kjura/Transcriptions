@@ -1,0 +1,17 @@
+Original key: D minor
+
+
+
+i = Dm
+iio = Edim
+III = F
+iv = Gm
+v = Am
+VI = Bb
+VII = C
+
+
+
+Dm Gm Am
+
+F Bb C
