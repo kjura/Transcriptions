@@ -9,12 +9,12 @@ vi = Bbm
 vio = Cdim
 
 
-Intro/Verse - Db Ab Bm Ab
+Intro/Verse - Db Ab Bbm Ab
 Pre-Chorus - Gb (hold then jump to) Ab
-Chorus - Db Bm Gb Db Bm Gb
+Chorus - Db Bbm Gb Db Bbm Gb
 
-Bridge - Ab Bm Gb Ab Db Ab Bm Ab
+Bridge - Ab Bbm Gb Ab Db Ab Bbm Ab
 
-Wooo - Db Ab Bm Ab
+Wooo - Db Ab Bbm Ab
 
 I still believe - Gb (hold reeeeeeaaaaly long then jump to) Ab
