@@ -1,0 +1,18 @@
+Original: Cm with variations
+
+i =  Cm
+iio = Ddim
+III = Eb
+iv = Fm
+v = Gm
+VI = Ab
+VII = Bb
+
+extra for the song: vb 
+
+Major to Minor III -> iii
+"8th chord" ib - III - vb   
+
+Intro i III
+Verse i III->iii VI VI
+Chorus iv VI i VII iv VI i "8th chord"
