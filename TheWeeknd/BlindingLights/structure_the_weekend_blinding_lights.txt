@@ -1,0 +1,15 @@
+Original Key: some Cm mode
+
+i = Cm
+iio = Ddim
+III = Eb
+iv = Fm
+v = Gm
+VI = Ab
+VII = Bb
+
+
+Verse - iv i III VII 
+Pre-Chorus - iv i III (VII) 
+Bridge - iv i III VII 
+Chorus - iv i III VII 
