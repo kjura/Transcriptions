@@ -1,0 +1,14 @@
+Original Key: Fm
+
+i = Fm 
+iio = Gdim 
+III = Ab 
+iv-IV = Bbm->Bb 
+v = Cm 
+VI = Db 
+VII = Eb 
+
+
+Verse - i III VII iv->IV
+
+Pre-Chorus/Chorus - i iv->IV i iv->IV
