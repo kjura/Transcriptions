@@ -1,0 +1,15 @@
+Original key: Apparently E Dorian
+
+A B C# D E F# G -> A major
+
+F# G A B C# D E -> F# minor
+
+E F# G A B C# D -> E Dorian
+
+
+Piano like:
+
+Em = E G B
+D6/9 = D major + B + E 
+Em9 = E minor + D + F#
+Dmaj9 = D major + C# + E
