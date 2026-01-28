@@ -1,0 +1,16 @@
+Original key: Am
+
+i = Am
+iio = Bdim
+III = C
+iv = Dm
+v = Em
+VI = F
+VII = G
+
+
+Verse(1) i VI VII i
+Verse(2) iv VII v i
+
+Chorus VI VII v i
+Bridge III iv->IV III iv->IV VI VII VI VII
