@@ -1,0 +1,23 @@
+Original Key: B major
+
+I = B
+ii = C#m ii-> II
+iii = D#m
+IV = E
+V = F#
+vi = G#m
+viio = A#dim
+
+
+add 13 chord -> Root Note - Major 3rd - Perfect 5th - Major 6th
+maj7 chord -> Root Note - Majord 3rd - Perfect 5th - Major 7th
+
+Original chords:
+Intro/Verse: B Bmaj7 B 2x
+Chorus: G#m C#m->C# G#m C#m->C#  B/F# F#add13 B
+Instrumental: B G#m B G#m D#m E B/F# F#
+
+
+Intro/Verse: I Imaj7 I 2x
+Chorus: vi ii->II vi ii->II  I/V Vadd13 I
+Instrumental: I vi I vi iii IV I/V V
