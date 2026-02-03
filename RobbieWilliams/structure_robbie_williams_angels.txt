@@ -1,0 +1,22 @@
+
+
+
+E F# G# B C# A 
+
+
+I = E
+ii = F#m 
+iii = G#m 
+IV = A 
+V = B V->v
+vi = C#m vi->VI#
+viio = D#dim
+
+
+
+Verse 1: I IV vi V 2x
+Verse 1 continuation: ii IV vi IV vi->VI# IV I vi->VI# IV I
+Verse 2: I IV vi V 2x
+Verse 2 continuation: vi->VI# IV I vi->VI# IV I
+Instrumental: V->v IV I 4x
+Chorus: V vi IV I V vi IV I ii vi->VI# IV I

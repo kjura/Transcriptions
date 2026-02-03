@@ -1,0 +1,13 @@
+Original key: C#m
+
+
+i = C#m
+iio = D#dim
+III = E 
+iv = F#m
+v = G#m
+VI = A 
+VII = B
+
+
+Verse/Pre-Chorus/Chorus VI III i VII

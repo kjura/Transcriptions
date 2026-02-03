@@ -1,0 +1,33 @@
+Original Key: mostly Gm <--> Cm Modulation so i -> VI
+
+
+Original
+Intro/Chorus Gm F Dm Eb
+Verse Ab Eb Bb Ab Eb Bb F Dm Dm
+Verse variation Ab Eb Gm F Eb C
+
+
+(a) "Main" key
+(b) VI degree of "Main"
+
+Using degrees:
+Intro/Chorus i(a) VII(a) v(a) VI(a)
+Verse IV(b) I(b) V(b) IV(b) I(b) V(b) VII(a) v(a) v(a)
+Verse variation IV(b) I(b) i(a) VII(a) VI(a) iv->IV(a)
+
+
+i = Gm
+iio = Adim
+III = Bb
+iv = Cm
+v = Dm
+VI = Eb
+VII = F
+
+I = Eb
+ii = Fm
+iii = Gm
+IV = Ab
+V = Bb
+vi = Cm
+viio = Dim

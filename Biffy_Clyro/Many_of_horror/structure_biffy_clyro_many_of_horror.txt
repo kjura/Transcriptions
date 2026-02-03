@@ -1,0 +1,20 @@
+Original key: Db major
+
+I = Db
+ii = Ebm
+iii = Fm
+IV = Gb
+V = Ab
+vi = Bbm
+vio = Cdim
+
+
+Intro/Verse - Db Ab Bbm Ab
+Pre-Chorus - Gb (hold then jump to) Ab
+Chorus - Db Bbm Gb Db Bbm Gb
+
+Bridge - Ab Bbm Gb Ab Db Ab Bbm Ab
+
+Wooo - Db Ab Bbm Ab
+
+I still believe - Gb (hold reeeeeeaaaaly long then jump to) Ab
