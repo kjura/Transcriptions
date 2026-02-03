@@ -11,11 +11,11 @@ VII = F#
 Intro: G#m E F#
 Verse: C#m F# G#m G#m
 Verse 2nd variation: C#m D#m E F# -> to chorus
-Chorus: B E F#
+Chorus: B G#m F#
 Bridge: E E B B E E F# G#m C#m F#
 
 Intro: i VI VII
 Verse: iv VII i i 
 Verse 2nd variation: iv v VI VII -> to chorus
-Chorus: III VI VII
+Chorus: III i VII
 Bridge: VI VI III III VI VI VII i iv iv VII
