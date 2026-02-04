@@ -1,0 +1,19 @@
+Original Key: Eb (25% sharper due to the experiments with the tape by the vocalist)
+
+
+I = Eb 
+ii = Fm 
+iii = Gm 
+IV = Ab 
+V = Bb 
+vi = Cm 
+viio = Ddim viio->Vb=Db major
+
+
+Intro/Verse : Eb Ab Eb Bb Cm Ab Eb Bb
+Pre-Chorus: Ab Bb Cm Ab Eb Bb 
+Bridge: Cm Db Eb Bb 4x 
+
+Intro/Verse : I IV I V vi IV I V
+Pre-Chorus: IV V vi IV I V 
+Bridge: vi viio->Vb I V 4x 
