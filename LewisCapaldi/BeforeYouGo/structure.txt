@@ -9,10 +9,6 @@ vi = Cm
 viio = Ddim
 
 
-Verse: Eb Cm Ab Bb
-Chorus: Eb Bb Cm Ab Bb Eb -> go back to verse
-Bridge: Cm Ab Eb Bb next Cm Ab Bb -> transition to verse guitar only
-
 Verse: I vi IV V
 Chorus: I V vi IV V I -> go back to verse
 Bridge: vi IV I V next vi IV V -> transition to verse guitar only
