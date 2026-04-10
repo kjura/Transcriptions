@@ -1,0 +1,14 @@
+Original key: G minor
+
+
+i = Gm
+iio = Adim
+III = Bb
+iv = Cm
+v = Dm
+VI = Eb
+VII = F
+
+
+Whole song: VI iv i VII
+         
