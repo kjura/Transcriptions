@@ -11,3 +11,7 @@ viio = Cdim
 Verse/Chorus: Db Ebm Bbm Gb
 Pre-Chorus: Ebm Fm Gb Fm Db Ebm Fm Ab Ab (double hitting)
 Bridge: Db Gb Db Ab (repeat)
+
+Verse/Chorus: I ii vi IV
+Pre-Chorus: ii iii IV iii I ii iii V V (double hitting)
+Bridge: I IV I V (repeat)
