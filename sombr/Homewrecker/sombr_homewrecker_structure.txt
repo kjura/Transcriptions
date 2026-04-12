@@ -1,0 +1,13 @@
+Original Key: Db
+
+I = Db
+ii = Ebm
+iii = Fm
+IV = Gb
+V = Ab
+vi = Bm
+viio = Cdim
+
+Verse/Chorus: Db Ebm Bbm Gb
+Pre-Chorus: Ebm Fm Gb Fm Db Ebm Fm Ab Ab (double hitting)
+Bridge: Db Gb Db Ab (repeat)
