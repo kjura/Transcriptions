@@ -18,5 +18,6 @@ VII = G
 
 Intro: C Bm Am F G C G Am
 Verse: Am G Am C G Am | Am G Am C G Am C G Am
+Zabrakło: Am F G C G Am
 
 Outro (Na ziemię powietrze): Dm C ?_(Bb)_? ?_(F)_?
