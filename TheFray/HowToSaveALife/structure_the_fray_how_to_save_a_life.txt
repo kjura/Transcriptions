@@ -1,0 +1,16 @@
+Original Key: Bb major
+
+I = Bb
+ii = Cm
+iii = Dm 
+IV = Eb
+V = F
+vi = Gm 
+viio = Adim
+
+In some cases we can use V/viio to be more accurate
+
+Roughly like this, not accurate due to piano fancy behaviour:
+
+Verse: I V vi iii V (repeat)
+Chorus: IV V vi I V/viio
