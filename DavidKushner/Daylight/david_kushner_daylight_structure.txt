@@ -1,0 +1,27 @@
+Original key: (piano out of tune) Am
+
+
+
+i = Am
+iio = Bdim 
+III = C
+iv = Dm
+v = Em
+VI = F
+VII = G
+
+
+
+Intro:
+
+F Dm Am
+F Dm C
+
+
+Verse: F Dm C 
+Chorus: F Dm Am
+Pre-Chorus: Am Am/G Fmaj7 Dm
+
+Verse: VI iv III 
+Chorus: VI iv i
+Pre-Chorus: i i/VII VImaj7 iv
