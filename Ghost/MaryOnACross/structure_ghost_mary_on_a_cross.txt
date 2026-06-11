@@ -2,7 +2,13 @@
 Possible: Bb major or Gm minor
 
 
-
+i = Gm
+iio = Adim
+III = Bb
+iv = Cm
+v = Dm
+VI = Eb
+VII = F
 
 
 Bb Cm Dm Eb F Gm Adim 
@@ -20,3 +26,8 @@ Chorus: (Bb Gm Dm F x2) (Eb Bb F)
 Chorus(Part 1) - Bb Gm Dm F 2x
 
 Chorus(Part 2) - Eb Bb F Gm F Eb Bb F
+
+
+Chorus(Part 1) - III i v VII 2x
+
+Chorus(Part 2) - VI III VII i VII VI III VII
