@@ -17,8 +17,18 @@ Chorus 1:  Ab Bb Cm Bb Ab Bb Bb Cm
 
 Chorus 2: Bb Ab Ab Bb Cm Bb Ab Ab Bb Ab Bb Cm
 
-
-
 Outro 1: Same as outro 2 but NO full strumming
 
 Outro 2: Cm Eb Bb Cm | Cm Ab Bb Cm | Cm Eb Bb Cm | Ab Bb Cm
+
+
+Verse 1: i v->V i v->V
+Verse 2: VI v->V i VI(hold) v->V i 
+
+Chorus 1:  VI VII i VII VI VII VII i
+
+Chorus 2: VII VI VI VII i VII VI VI VII VI VII i
+
+Outro 1: Same as outro 2 but NO full strumming
+
+Outro 2: i III VII i | i VI VII i | i III VII i | VI VII i
