@@ -1,6 +1,4 @@
-
-Possible: Bb major or Gm minor
-
+Possible: Gm minor
 
 i = Gm
 iio = Adim
@@ -11,23 +9,12 @@ VI = Eb
 VII = F
 
 
-Bb Cm Dm Eb F Gm Adim 
+Verse 1: i III VII
 
-Gm Adim Bb Cm Dm Eb F
+Verse 2: iv->VI VI->i i->VII  
 
-C D F G 
+Pre-Chorus: VI VII or v VI VII
 
+Chorus 1: III i v VII
 
-Verse: (Bb F Gm) (Cm Eb ?_? Gm ?_? F)
-Chorus: (Bb Gm Dm F x2) (Eb Bb F) 
-
-
-
-Chorus(Part 1) - Bb Gm Dm F 2x
-
-Chorus(Part 2) - Eb Bb F Gm F Eb Bb F
-
-
-Chorus(Part 1) - III i v VII 2x
-
-Chorus(Part 2) - VI III VII i VII VI III VII
+Chorus 2: VI III VII i VII VI III VII
