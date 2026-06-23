@@ -1,31 +1,36 @@
+Original Key: C#m
+
+Additional chord: Neapolitan Chord (lower iio by a semitone e.g D#dim -> D)
+Additional chord: iv->IV (minor to major promotion)
+
+i = C#m
+iio = D#dim
+III = B
+III7 = B7
+iv = F#m
+v = G#m
+VI = A
+VII = E 
 
 
 
-Possible C#m key
+Verse 1 | C#m C#m C#m C#m B | C#m C#m C#m C#m B
+Chorus | C#m B A D C#m B B C#m 
+Verse 2 | C#m C#m C#m C#m B | C#m C#m C#m C#m B
+Bridge 1 | C#m G#m F#m C#m | C#m B F# F#
+Bridge 2 (slow strumming) | B B B7 B7 G#m A G#m 
+Bridge 3 (slow strumming, there is a long way to go) | G#m C#m A B C#m
+Instrumental Bridge | A C#m A C#m A B 
+Chorus | C#m B A D C#m B B C#m 
+Outro | C#m C#m 
 
 
-C#m D#dim E F#m G#m A B
-
-Intro chords: (C#m) B
-
-Chords: C#m B A D C#m B B C#m
-
-
-
-D major appears
-
-
-
-How could I see... C#m B C#m B
-
-
-
-Verse 1
-Chorus C#m B A D C#m B B C#m
-Verse 2
-Bridge 1 | C#m G#m F#m C#m | C#m B F#
-Bridge 2 (slow strumming)
-Bridge 3 (slow strumming, there is a long way to go) G#m 
-Instrumental Bridge
-Chorus C#m B A D C#m B B C#m
-Outro
+Verse 1 | i i i i III | i i i i III
+Chorus | i III VI iio->II i III III i
+Verse 2 | i i i i III | i i i i III
+Bridge 1 | i v iv i | i III iv->IV iv->IV
+Bridge 2 (slow strumming) | III III III7 III7 v VI v
+Bridge 3 (slow strumming, there is a long way to go) | v i VI III i
+Instrumental Bridge | VI i VI i VI III
+Chorus | i III VI iio->II i III III i 
+Outro | i i 
