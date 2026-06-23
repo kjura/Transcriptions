@@ -5,12 +5,12 @@ Additional chord: iv->IV (minor to major promotion)
 
 i = C#m
 iio = D#dim
-III = B
-III7 = B7
+III = E
 iv = F#m
 v = G#m
 VI = A
-VII = E 
+VII = B
+VII7 = B7
 
 
 
@@ -29,7 +29,7 @@ Verse 1 | i i i i III | i i i i III
 Chorus | i III VI iio->II i III III i
 Verse 2 | i i i i III | i i i i III
 Bridge 1 | i v iv i | i III iv->IV iv->IV
-Bridge 2 (slow strumming) | III III III7 III7 v VI v
+Bridge 2 (slow strumming) | III III VII7 VII7 v VI v
 Bridge 3 (slow strumming, there is a long way to go) | v i VI III i
 Instrumental Bridge | VI i VI i VI III
 Chorus | i III VI iio->II i III III i 
