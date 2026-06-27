@@ -1,0 +1,27 @@
+Original Key: F#m
+
+
+i = F#m
+iio = G#dim
+III = A
+iv = Bm
+v = C#m
+VI = D
+VII = E (E sus chords as well)
+
+
+VII/iio = E/G#
+vi6 = Dm6 (play D minor and add "B" sound on piano)
+VIIsus4 = Esus4
+IIN = G
+
+Intro: |F#m A F#m A C#m D|  F#m A F#m A E/G# D F#m
+Verse: F#m A F#m A C#m D (sometimes ends with F#m, or C#m-D or 1st inversion of E E/G#)
+Chorus 1: E with Esus4
+Chorus 2: D A G F#m D A G F#m D ?Dm6?
+
+
+Intro: i III i III v VI | i III i III VII/iio VI i
+Verse: i III i III v VI (sometimes ends with i, or v-VI or VII/iio)
+Chorus 1: VII with VIIsus4
+Chorus 2: VI III IIN i VI III IIN i VI ?vi6?
