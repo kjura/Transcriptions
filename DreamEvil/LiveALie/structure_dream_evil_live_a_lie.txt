@@ -4,6 +4,7 @@ Key Change (Bridge):
 
 Cm Ddim Eb Fm Gm Ab Bb  
 
+Bm C#dim D Em F#m A G
 
 D#5 G#5 F5    
 
@@ -16,7 +17,7 @@ Chorus: Cm Bb Cm Ab Bb Cm Bb Ab ?G G G Ab Ab G? 2 times
 
 Verse 2: ?Cm? Eb5 Ab5 F5 
 
-Bridge(Key change): |B5 A5 D5 E5| |B5 A5 G5 F#5| |B5 A5 D5 E5| |B5 A5 E5 G5|
+Bridge(Key change): |Bm A D Em| |B5 A5 G ?major F# major?| |Bm A D Em| |Bm A Em G|
 
 Chords when Solo is playing: |F#5 D5 F5 E5 A5 G#5| |F#5 D5 B5 E5|
 
