@@ -1,17 +1,27 @@
-Original Key: Cm?
+Original Key: Cm
 
-Key Change (Bridge): 
+i = Cm
+iio = Ddim
+III = Eb
+iv = Fm
+v = Gm
+VI = Ab
+VII = Bb
 
-Cm Ddim Eb Fm Gm Ab Bb  
+Key Change (Bridge + Solo):  Bm (Half a step than original)
 
-Bm C#dim D Em F#m A G
-
-D#5 G#5 F5    
+i = Bm
+iio = C#
+III = D
+iv = Em
+v = F#m
+VI = G
+VII = A
 
 
 Verse 1: Cm Eb Ab Fm 
 
-Pre-Chorus: Ab |Eb Eb Cm Ab Ab Bb| G Ab Bb
+Pre-Chorus: Ab |Eb Eb Cm Ab Ab Bb| Gm Ab Bb
 
 Chorus: Cm Bb Cm Ab Bb Cm Bb Ab ?G G G Ab Ab G? 2 times
 
@@ -22,3 +32,18 @@ Bridge(Key change): |Bm A D Em| |B5 A5 G ?major F# major?| |Bm A D Em| |Bm A Em 
 Chords when Solo is playing: |F#5 D5 F5 E5 A5 G#5| |F#5 D5 B5 E5|
 
 Ending: Long Cm 
+
+
+Verse 1: i III VI iv 
+
+Pre-Chorus: VI |III III i VI VI VII| v VI VII
+
+Chorus: i VII i VI VII i VII VI ?v v v VI VI v? 2 times
+
+Verse 2: i III VI iv
+
+Bridge(Key change, half a step from I in Original Key): |i VII III iv| |i VII VI ?major v major?| |i VII III iv| |i VII iv VI|
+
+Chords when Solo is playing(Key change, half a step from I in Original Key): |v III v# iv VII VI#| |v III i iv|
+
+Ending(Original Key): Long i
