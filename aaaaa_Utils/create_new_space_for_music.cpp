@@ -2,10 +2,11 @@
 #include <string>
 #include <filesystem>
 #include <fstream>
+#include <cctype>
 namespace fs = std::filesystem;
 
 // Compiled with:
-// g++ -std=c++20 -pedantic -Wall -Wextra -Werror -Wshadow -Wsign-conversion -g new_song_folder.cpp  -o create_new_song
+// g++ -std=c++20 -pedantic -Wall -Wextra -Werror -Wshadow -Wsign-conversion -g create_new_space_for_music.cpp  -o create_new_space_for_music
 using std::cout;
 using std::string;
 
@@ -14,6 +15,50 @@ using std::string;
 
 // [0x1, 0x2, 0x3, ...]
 
+enum class music_param {
+    band,
+    song
+};
+
+
+string parse_music_param(music_param mp) {
+
+    switch (mp) {
+        case music_param::band:
+            return "band";
+        case music_param::song:
+            return "song";
+        default:
+            throw std::invalid_argument("FATAL: Cotrol reached enum value not declared for parse: other that music_param::band and music_param::song");
+    }
+
+}
+
+int create_new_space_for_music(music_param mp, const string& name_song_or_band, const fs::path& p) {
+
+    const string music_param_name { parse_music_param(mp) };
+    string first_letter_upper_music_param_name { music_param_name };
+    first_letter_upper_music_param_name[0] = std::toupper(first_letter_upper_music_param_name[0]);
+
+    if (fs::exists(p)) {
+        cout << first_letter_upper_music_param_name << " already exists!" << "\n";
+        return 0;
+    }
+    else {
+        cout << first_letter_upper_music_param_name << " is new. Creating a new folder for the song..." << "\n";
+        if (fs::create_directory(p)) {
+            cout << "Successfully created a new folder for the new " << music_param_name << ": "  <<  name_song_or_band << "\n";
+            return 0;
+        }
+        else {
+            throw "Directory could not be created. Terminating...\n";
+            return 44;
+        }
+    }
+}
+
+
+// create_new_space_for_music(band/song, band_name/song_name, )
 
 
 int main(int argc, char* argv[]) {
@@ -45,40 +90,16 @@ int main(int argc, char* argv[]) {
 
     const fs::path maybe_band_directory { transcriptions_path.concat("/" + BAND_NAME) };
 
-    cout <<  maybe_band_directory << "\n";
 
-    if (fs::exists(maybe_band_directory)) {
-        cout << "Band already exists!" << "\n";
-    }
-    else {
-        cout << "Band is new. Creating a new folder for the band..." << "\n";
-        if (fs::create_directory(maybe_band_directory)) {
-            cout << "Successfully created a new folder for the new band: " << BAND_NAME << "\n";
-        }
-        else {
-            std::cerr << "Directory could not be created. Terminating...\n";
-            return 1;
-        }
-    }
+    create_new_space_for_music(music_param::band, BAND_NAME, maybe_band_directory);
 
 
     // Create a new folder for the new song (if it does not already exist??)
     fs::path maybe_new_song_dir { maybe_band_directory};
     maybe_new_song_dir += "/" + SONG_NAME;
 
-    if (fs::exists(maybe_new_song_dir)) {
-        cout << "Song already exists!" << "\n";
-    }
-    else {
-        cout << "Song is new. Creating a new folder for the song..." << "\n";
-        if (fs::create_directory(maybe_new_song_dir)) {
-            cout << "Successfully created a new folder for the new song: " << SONG_NAME << "\n";
-        }
-        else {
-            std::cerr << "Directory could not be created. Terminating...\n";
-            return 1;
-        }
-    }
+
+    create_new_space_for_music(music_param::song, SONG_NAME, maybe_new_song_dir);
 
 
     fs::path new_song_structure_p { maybe_new_song_dir};
@@ -90,7 +111,7 @@ int main(int argc, char* argv[]) {
     ofs << "Hello Song! :)"; 
     }
 
-    // ./create_new_song 2_Moja_Kapela Buka
+    // ./create_new_space_for_music 2_Moja_Kapela Buka
 
     cout << "Program finished\n" << "\n";
     return 0;
