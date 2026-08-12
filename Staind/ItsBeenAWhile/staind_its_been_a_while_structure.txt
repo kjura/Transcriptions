@@ -1,0 +1,22 @@
+Original Key (Acoustic version): F# major
+
+
+
+I = F# 
+ii = G#m 
+iii = A#m 
+IV = B 
+V = C# 
+vi = D#m 
+viio = E#dim
+
+
+
+
+Verse: G#m B F# C#
+Chorus:G#m B F# C#
+Bridge: F# C# G#m
+
+Verse: ii IV I V 
+Chorus: ii IV I V
+Bridge: I V ii
