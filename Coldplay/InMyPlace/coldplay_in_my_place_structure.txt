@@ -1,0 +1,19 @@
+Original key: A major
+
+I = A
+ii = Bm
+iii = C#m
+IV = D
+V = E
+vi = F#m
+viio = G#dim
+
+
+Verse I: A A/G# C#m E
+Verse II: A F#m C#m E
+Chorus: D A E (ending D E)
+
+
+Verse I: I I/viio iii V
+Verse II: I vi iii V
+Chorus: IV I V (ending IV V)

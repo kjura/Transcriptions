@@ -1,7 +1,14 @@
 Original key: Eb major
 
-Verse Eb Cm Ab Bb
+I = Eb
+ii = Fm
+iii = Gm
+IV = Ab
+V = Bb
+vi = Cm
+viio = Ddim
 
-Chorus Eb Bb Cm Ab
 
-Bridge Cm Ab Eb Bb next Cm Ab Bb -> transition to verse guitar only
+Verse: I vi IV V
+Chorus: I V vi IV V I -> go back to verse
+Bridge: vi IV I V next vi IV V -> transition to verse guitar only

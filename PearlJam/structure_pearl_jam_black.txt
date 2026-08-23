@@ -1,0 +1,33 @@
+Original Key: E major + E minor
+
+Key number 1:
+I = E
+ii = F#m 
+iii = G#m 
+IV = A
+V = B
+vi = C#m
+viio = D#dim
+
+Key number 2:
+i = Em
+iio = F#dim 
+III = G
+iv = Am
+v = Bm
+VI = C
+VII = D
+
+Verse 1(Key number 1): |E A E A E...| pattern continues
+Pre-Chorus(Key number 2): C Em C Em
+Chorus(Key number 2): D C Em D C E
+Verse 2(Key number 1): |E A E A |
+Pre-Chorus(Key number 2): C Em C Em
+Chorus 2 Plus Outro(Key number 2): |D C Em D C Em| then one time | D C D | and recurring pattern  |D C Em D C E|
+
+Verse 1(Key number 1): |I IV I IV I...| pattern continues
+Pre-Chorus(Key number 2): VI i VI i
+Chorus(Key number 2): VII VI i VII VI i
+Verse 2(Key number 1): |I IV I IV I...|
+Pre-Chorus(Key number 2): VI i VI i
+Chorus 2 Plus Outro(Key number 2): |VII VI i VII VI i| then one time | VII VI VII | and recurring pattern  |VII VI i VII VI i|

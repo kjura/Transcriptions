@@ -1,0 +1,17 @@
+Original Key: Em vs G
+
+
+
+i = Em
+iio = F#dim
+III = G
+iv = Am
+v = Bm
+VI = C
+VII = D
+
+Verse: D C Am Em G
+Chorus / Bridge: G C Em Em
+
+Verse: VII VI iv i III
+Chorus / Bridge: III VI i i

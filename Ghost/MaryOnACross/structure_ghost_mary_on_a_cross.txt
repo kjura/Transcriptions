@@ -1,0 +1,20 @@
+Possible: Gm minor
+
+i = Gm
+iio = Adim
+III = Bb
+iv = Cm
+v = Dm
+VI = Eb
+VII = F
+
+
+Verse 1: i III VII
+
+Verse 2: iv->VI VI->i i->VII  
+
+Pre-Chorus: VI VII or v VI VII
+
+Chorus 1: III i v VII
+
+Chorus 2: VI III VII i VII VI III VII

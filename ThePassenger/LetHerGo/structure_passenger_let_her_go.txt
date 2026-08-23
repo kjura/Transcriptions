@@ -1,0 +1,15 @@
+Original key: Em
+
+i = Em
+iio = F#dim
+III = G
+iv = Am
+v = Bm
+VI = C
+VII = D
+
+
+Intro: VI VII i v VII VI VII i
+Intro Chorus (With bass lines): (Holds on Em before) D C G D Em C G D
+Verse: i VI VII v i VI VII
+Chorus: VI III VII i VI III VII

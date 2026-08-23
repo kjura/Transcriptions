@@ -1,0 +1,48 @@
+Original Key: mostly Am
+
+
+i = Am
+iio = Bdim
+III = C
+iv = Dm
+v = Em
+VI = F
+VII = G
+
+Verse 1 : Am G F E
+Verse 1 : Am Em Dm E
+
+Chorus 1 : Am Em F C G  
+Chorus 1 : Am Em F C G Am 
+
+Break Instrumental: Am G F E
+
+Verse 2  Am G F E
+Verse 2  Am Em Dm E
+
+Chorus 2 : Am Em F C G  
+Chorus 2 : Am Em F Dm C G Am Em 
+
+Bridge: Am F Dm E Am Am F Dm E Am Cdim E
+
+Chorus 3 : Am Em F C G  
+Chorus 3 : Am Em F Dm C G 
+
+Verse 1 : i VII VI v->V
+Verse 1 : i v iv v->V
+
+Chorus 1 : i v VI III VII  
+Chorus 1 : i v VI III VII i 
+
+Break Instrumental: i VII VI v->V
+
+Verse 2  i VII VI v
+Verse 2  i v iv v->V
+
+Chorus 2 : i v VI III VII  
+Chorus 2 : i v VI iv III VII i v 
+
+Bridge: i VI iv v->V i i VI iv v->V i III->IIIo v->V
+
+Chorus 3 : i v VI III VII 
+Chorus 3 : i v VI iv III VII

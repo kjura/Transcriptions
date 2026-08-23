@@ -1,0 +1,18 @@
+Original key: E major
+
+I = E
+ii = F#m
+iii = G#m
+IV = A
+V = B
+vi = C#m
+viio = D#dim 
+Ibb = D major (two semitones lower than the root note)
+
+Verse: E C#m E C#m A B 
+Chorus: E C#m A B
+Bridge: D E D E Stay on E
+
+Verse: I vi I vi IV V 
+Chorus: I vi IV V
+Bridge: Ibb I Ibb I Stay on I

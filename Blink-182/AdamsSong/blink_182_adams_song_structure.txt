@@ -1,0 +1,17 @@
+Original Key: C major 
+
+i = C
+iio = Dm 
+III = Em
+iv = F
+v = G
+VI = Am
+VII = Bdim
+
+Intro (bass): vi V IV ii IV
+
+Verse: I IV vi IV
+Chorus: I ii vi IV
+Instrumental: TBD
+
+Instrumental before chords: I ii vi IV

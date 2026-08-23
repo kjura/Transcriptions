@@ -1,0 +1,16 @@
+Original Key: Dm 
+
+i = Dm
+iio = Edim
+III = F
+iv = Gm
+v = Am (v->V A)
+VI = Bb
+VII = C
+
+
+Verse 1: i VI III VII
+Verse 2: i VI III VII VI VII 
+Chorus: III III/iio i VII VI III VII
+Bridge: | i VI III VII | i VI III v->V x2 | (smooth from v->V to VI) VI VII
+Solo background chord: III III/iio i VII VI III VII x2 | VI III v

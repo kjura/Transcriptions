@@ -1,0 +1,36 @@
+Original Key: C#m
+
+Additional chord: Neapolitan Chord (lower iio by a semitone e.g D#dim -> D)
+Additional chord: iv->IV (minor to major promotion)
+
+i = C#m
+iio = D#dim
+III = E
+iv = F#m
+v = G#m
+VI = A
+VII = B
+VII7 = B7
+
+
+
+Verse 1 | C#m C#m C#m C#m B | C#m C#m C#m C#m B
+Chorus | C#m B A D C#m B B C#m 
+Verse 2 | C#m C#m C#m C#m B | C#m C#m C#m C#m B
+Bridge 1 | C#m G#m F#m C#m | C#m B F# F#
+Bridge 2 (slow strumming) | B B B7 B7 G#m A G#m 
+Bridge 3 (slow strumming, there is a long way to go) | G#m C#m A B C#m
+Instrumental Bridge | A C#m A C#m A B 
+Chorus | C#m B A D C#m B B C#m 
+Outro | C#m C#m 
+
+
+Verse 1 | i i i i VII | i i i i VII
+Chorus | i VII VI iio->II i VII VII i
+Verse 2 | i i i i VII | i i i i VII
+Bridge 1 | i v iv i | i VII iv->IV iv->IV
+Bridge 2 (slow strumming) | VII VII VII7 VII7 v VI v
+Bridge 3 (slow strumming, there is a long way to go) | v i VI VII i
+Instrumental Bridge | VI i VI i VI VII
+Chorus | i VII VI iio->II i VII VII i 
+Outro | i i 

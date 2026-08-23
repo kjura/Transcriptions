@@ -1,0 +1,18 @@
+Original Key: E major
+
+I = E
+ii = F#m
+iii = G#m
+IV = A
+V = B
+vi = C#m
+viio = D#dim
+
+
+Verse: vi V vi V IV I V
+
+Guitar before chorus: ii IV V
+
+Chorus: I vi IV V I IV ii->II
+
+Outro: vi V vi V IV I V

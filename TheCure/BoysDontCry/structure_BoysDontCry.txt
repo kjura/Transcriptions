@@ -9,5 +9,5 @@ vi = F#m (sometimes we can hear F#m7)
 viio = G#dim
 
 Verse I/Chorus: I ii iii IV (and from the end to the beginning)
-Verse II: ii iii ii iii ii iii ii iii  
+Verse II: iii ii iii ii iii ii iii ii
 Bridge: V vi V vi V vi IV V
