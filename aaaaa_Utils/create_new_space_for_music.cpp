@@ -5,6 +5,7 @@
 #include <cctype>
 namespace fs = std::filesystem;
 
+
 // Compiled with:
 // g++ -std=c++20 -pedantic -Wall -Wextra -Werror -Wshadow -Wsign-conversion -g create_new_space_for_music.cpp  -o create_new_space_for_music
 using std::cout;
@@ -15,18 +16,27 @@ using std::string;
 
 // [0x1, 0x2, 0x3, ...]
 
-enum class music_param {
-    band,
-    song
+
+enum class music_path_param;
+
+struct NewMusic {
+    music_path_param mp;
+    string param_name;
+    fs::path p;
+};
+
+enum class music_path_param {
+    band_dir,
+    song_dir
 };
 
 
-string parse_music_param(music_param mp) {
+string parse_music_param(music_path_param mp) {
 
     switch (mp) {
-        case music_param::band:
+        case music_path_param::band_dir:
             return "band";
-        case music_param::song:
+        case music_path_param::song_dir:
             return "song";
         default:
             throw std::invalid_argument("FATAL: Cotrol reached enum value not declared for parse: other that music_param::band and music_param::song");
@@ -34,7 +44,7 @@ string parse_music_param(music_param mp) {
 
 }
 
-int create_new_space_for_music(music_param mp, const string& name_song_or_band, const fs::path& p) {
+int create_new_space_for_music(music_path_param mp, const string& name_song_or_band, const fs::path& p) {
 
     const string music_param_name { parse_music_param(mp) };
     string first_letter_upper_music_param_name { music_param_name };
@@ -91,7 +101,7 @@ int main(int argc, char* argv[]) {
     const fs::path maybe_band_directory { transcriptions_path.concat("/" + BAND_NAME) };
 
 
-    create_new_space_for_music(music_param::band, BAND_NAME, maybe_band_directory);
+    create_new_space_for_music(music_path_param::band_dir, BAND_NAME, maybe_band_directory);
 
 
     // Create a new folder for the new song (if it does not already exist??)
@@ -99,7 +109,7 @@ int main(int argc, char* argv[]) {
     maybe_new_song_dir += "/" + SONG_NAME;
 
 
-    create_new_space_for_music(music_param::song, SONG_NAME, maybe_new_song_dir);
+    create_new_space_for_music(music_path_param::song_dir, SONG_NAME, maybe_new_song_dir);
 
 
     fs::path new_song_structure_p { maybe_new_song_dir};
