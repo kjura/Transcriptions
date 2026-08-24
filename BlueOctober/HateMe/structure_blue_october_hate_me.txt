@@ -1,0 +1,20 @@
+Original Key: G
+
+
+I = G
+ii = Am
+iii = Bm
+IV = C
+V = D
+vi = Em
+viio = F#dim
+
+Verse: G Em C Am
+Chorus: G Em C D G
+Chorus 2: G Em C D Em
+Bridge: |Am D G Em| 3x |Am D|
+
+Verse: I vi IV ii
+Chorus: I vi IV V I
+Chorus 2: I vi IV V vi
+Bridge: |ii V I vi| 3x |ii V|
