@@ -1,0 +1,15 @@
+
+Original Key: Dm
+
+
+i = Dm
+iio = Edim
+III = F
+iv = Gm
+v = A
+VI = Bbm
+VII = C
+
+
+
+Verse/Chorus: i VI III VII

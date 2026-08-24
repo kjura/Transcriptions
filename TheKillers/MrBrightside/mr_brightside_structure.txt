@@ -1,0 +1,18 @@
+Original Key: Db
+
+
+I = Db 
+ii = Ebm 
+iii = Fm 
+IV = Gb 
+V = Ab 
+vi = Bbm 
+viio = Cdim 
+
+Verse (arpeggio): I-iii-I-ii viio-iii-I-ii IV-iii-I-ii IV-iii-I-ii
+
+Pre-Chorus: vi V IV
+
+Chorus: I IV vi V
+
+Bridge: I IV vi V
