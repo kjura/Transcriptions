@@ -1,0 +1,16 @@
+Original Key: Bbm
+
+
+i = Bm
+iio = Cdim
+III = Db
+iv = Ebm
+v = Fm
+VI = Gb
+VII = Ab
+
+Verse/Pre-Chorus/Chorus: Gb Ebm Bbm Fm
+
+Piano part before verse: Bbm Ab
+
+Outro: |Gb Ab Ebm Bm Fm| |Gb Bbm Fm (Ab)| |Ebm Ebm Ebm|
