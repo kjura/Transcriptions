@@ -1,0 +1,17 @@
+Original Key: Am
+
+i = Am
+iio = Bdim
+III = C
+iv = Dm
+v = Em
+VI = F
+VII = G
+
+
+Verse: i VI VII
+Verse 2: i i i i 
+Chorus: i VI VII
+Chorus ending: |VI VII| -> couple of times and after that to i (verse start)
+Bridge: i VI VII 
+Ending outro: VI VII i
