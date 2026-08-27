@@ -1,0 +1,16 @@
+Original Key: Am
+
+i = Am
+iio = Bdim
+III = C
+iv = Dm
+v = Em
+VI = G
+VII = F
+
+
+Verse/Pre-Chorus: Am C F Dm
+Chorus/Instrumental Voicing/Last Pre-Chorus: F Dm Am G
+
+Verse/Pre-Chorus: i III VII iv
+Chorus/Instrumental Voicing/Last Pre-Chorus: VII iv i VI
