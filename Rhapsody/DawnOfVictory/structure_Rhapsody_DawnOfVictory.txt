@@ -1,0 +1,27 @@
+Original Key: Cm
+
+
+
+i = Cm 
+iio = Ddim 
+III = Eb 
+iv = Fm 
+v = Gm 
+VI = Ab
+VII = Bb
+
+
+Verse: |i III VII v VI| v
+
+Chorus: i v i VII iv i VI VII i 
+
+
+Verse: |Cm Eb Bb Gm Ab| Gm
+
+Chorus: Cm Gm Cm Bb Fm Cm Ab Bb Cm  
+
+Instrumental After First Chorus: 
+
+Instrumental After First Chorus 2: 
+ 
+Bridge: Cm Gm Ab Eb Bb Cm
