@@ -1,0 +1,22 @@
+
+
+I = Bb
+ii = Cm
+iii = Dm
+IV = Eb
+V = F
+vi = Gm
+viio = Adim
+
+ii->II Cm->C
+viio->vii Adim->Am
+ 
+
+Bb Cm Dm Eb F Gm Adim 
+
+Intro: |Bb Gm Dm C|
+Let me go part: |Bb Gm Dm ??Am?? ??C??|
+
+
+Intro: |I vi iii ii->II|
+Let me go part: |i vi iii ??viio->vii?? ??ii->II??|
