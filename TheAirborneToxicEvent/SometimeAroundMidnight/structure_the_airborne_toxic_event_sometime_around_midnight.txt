@@ -1,0 +1,19 @@
+Original Key: Eb?
+
+
+I = Eb
+ii = Fm
+iii = Gm
+IV = Ab
+V = Bb 
+vi = Cm
+viio = Ddim
+
+
+Verse: |Eb Ebsus4 Eb Ebsus2| |Eb Ebsus4 Eb Ebsus2| Cm Ab
+Before final loudest verse: Ab Bb Cm Ab Bb Eb
+You just have to see her:  Cm Ab Eb Cm Ab Ab Eb 
+
+Verse: |I Isus4 I Isus2| |I Isus4 I Isus2| vi IV
+Before final loudest verse: IV V vi IV V I
+You just have to see her:  vi IV I vi IV IV I 
