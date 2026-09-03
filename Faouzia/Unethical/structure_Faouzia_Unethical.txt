@@ -12,10 +12,11 @@ VI = Bb
 VII = C
  
 Intro: |Bb Gm Dm C|
-Let me go part: |Bb Gm Dm Am C|
+After (Let me go) part until the end: |Bb Gm Dm Am C|
 
 Intro: |VI iv i VII|
-Let me go part: |VI iv i v VII|
+After (Let me go) part until the end: |VI iv i v VII|
+
 
 
 Verse 1:
