@@ -11,10 +11,10 @@ v = Am
 VI = Bb
 VII = C
  
-Intro: |Bb Gm Dm C|
+Intro/Verse/Chorus: |Bb Gm Dm C| (First Chorus ends on Dm)
 After (Let me go) part until the end: |Bb Gm Dm Am C|
 
-Intro: |VI iv i VII|
+Intro/Verse: |VI iv i VII|
 After (Let me go) part until the end: |VI iv i v VII|
 
 
@@ -34,3 +34,16 @@ And I've been, waiting for the sunset, waiting on a |7 1 1 1 1 2 1 2 3 3 3 4 3 4
 sorry, but you're never sorry, are you? |6 5 3 4 3 4 6 5 1 2 3|
 no, you don't even care how, can you stand and |1 1 2 1 2 3 3 3 4 3 4|
 watch, while I'm |2 1 7 1 2 2 3 1|
+
+Chorus:
+Breaking all my bones, tryna hold you
+close, cut my heart right out my body
+Tearing off my skin just to let you
+in, isn't it a bit, unethi-
+-cal, got me on my knees, have you any
+mercy, every time you hurt me baby
+Tell me have I not, given you en-
+-ough, if you ever loved me, let me go
+
+Verse 2:
+
