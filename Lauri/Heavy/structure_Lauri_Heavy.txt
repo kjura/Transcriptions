@@ -1,7 +1,5 @@
 Original Key: C#m
-
-
-
+BPM: 109
 
 Harmonic Minor
 
@@ -14,6 +12,31 @@ VI = A
 VII = B
 
 v->V = G# (raise the seventh scale degree by half a step)
+
+Song sequence:
+Intro (Instrumental)
+Verse 1 Part 1
+Verse 1 Part 2
+Chorus 1
+Verse 2 Part 1
+Verse 2 Part 2
+Chorus 2
+Bridge
+Chorus 3
+Chorus 4
+Chorus (Outro)
+
+Intro (Instrumental): 
+
+Verse part 1: i VII VI iv v->V
+
+Verse part 2: i VI VII VI iv v->V
+
+Chorus: III v->V i III v->V i VI VII VI VII III
+
+Bridge: ?????????|A F#m E B C#m| |A F#m C#m|????????????????
+
+Chorus (Outro): III v->V i VI VII VI VII III
 
 
 Intro (Instrumental):
@@ -30,18 +53,10 @@ Verse 2 part 2: C#m A B A F#m G#
 
 Chorus 2: E G# C#m E G# C#m A B A B E 
 
-Bridge: ?????????|A F#m E B C#m| |A F#m C#m|??????????????/
+Bridge: ?????????|A F#m E B C#m| |A F#m C#m|????????????????
 
 Chorus 3: E G# C#m E G# C#m A B A B E 
 
 Chorus 4: E G# C#m E G# C#m A B A B E 
 
 Chorus (Outro): E G# C#m A B A B E
-
-
-
-Verse part 1: i VII VI iv v->V
-
-Verse part 2: i VI VII VI iv v->V
-
-Chorus: III v->V i III v->V i VI VII VI VII III
