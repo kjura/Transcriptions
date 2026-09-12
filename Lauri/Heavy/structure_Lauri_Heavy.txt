@@ -32,6 +32,11 @@ Chorus 2: E G# C#m E G# C#m A B A B E
 
 Bridge: 
 
+Chorus 3: E G# C#m E G# C#m A B A B E 
+
+Chorus 4: E G# C#m E G# C#m A B A B E 
+
+Chorus (Outro): E G# C#m A B A B E
 
 Verse part 1: i VII VI iv v->V
 
